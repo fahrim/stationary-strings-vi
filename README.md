@@ -10,8 +10,14 @@ Yazar: Fahri Meral · Tarih: 16 Ekim 2026 · Sürüm: v1 (Makale VI)
 |---|---|
 | `paper/duran_sicimler_teoremi_VI.tex` | Türkçe ana makale (Teorem 1, Tablo 1–3, fig7–fig8) |
 | `paper/duran_sicimler_teoremi_VI_EN.tex` | İngilizce sürüm |
-| `figs/fig7_dirac_majorana_and_meral_constant.pdf` | T13/T14 figürü |
-| `figs/fig8_alpha_breit_rabi_and_511keV_fuel.pdf` | T15 figürü |
+| `figs/fig7_dirac_majorana_and_meral_constant.pdf` | T13/T14 figürü (TR) |
+| `figs/fig7_dirac_majorana_and_meral_constant.png` | T13/T14 figürü, önizleme (TR) |
+| `figs/fig7_dirac_majorana_and_meral_constant_en.pdf` | T13/T14 figürü (EN) |
+| `figs/fig7_dirac_majorana_and_meral_constant_en.png` | T13/T14 figürü, önizleme (EN) |
+| `figs/fig8_alpha_breit_rabi_and_511keV_fuel.pdf` | T15 figürü (TR) |
+| `figs/fig8_alpha_breit_rabi_and_511keV_fuel.png` | T15 figürü, önizleme (TR) |
+| `figs/fig8_alpha_breit_rabi_and_511keV_fuel_en.pdf` | T15 figürü (EN) |
+| `figs/fig8_alpha_breit_rabi_and_511keV_fuel_en.png` | T15 figürü, önizleme (EN) |
 | `CITATION.cff` | Atıf kaydı |
 | `LICENSE` | MIT |
 
