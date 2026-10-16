@@ -2,6 +2,10 @@
 
 > **Türkçe:** [README_TR.md](./README_TR.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23409493.svg)](https://doi.org/10.5281/zenodo.23409493)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 **Stationary Strings Theorem VI: Dirac–Majorana Chiral Peeling in Navier–Stokes Vortex Blowup, the Meral Baryogenesis Constant, and CERN ALPHA / 511 keV Observational Synthesis**
 
 Author: Fahri Meral · Date: October 16, 2026 · Version: v1 (Paper VI)
@@ -46,6 +50,20 @@ The `figs/` PDFs are the archived figures of these tests (English-labelled versi
   `ε_CP* = 3.04422478604457e-11`.
 - T15: ALPHA-g lab `1.0` exact (`1.21σ` marginal agreement), Breit–Rabi difference `~1e-9` kHz,
   Gauss norm `5.6e-16`, Ore–Powell `∫_0` divergence documented (regulated: `2343.47/228.08`).
+
+## Citation
+
+```bibtex
+@misc{meral2026duranVI,
+  author = {Fahri Meral},
+  title  = {Stationary Strings Theorem VI: Dirac-Majorana Chiral Peeling in Navier-Stokes Vortex Blowup, the Meral Baryogenesis Constant, and CERN ALPHA / 511 keV Observational Synthesis},
+  year   = {2026},
+  doi    = {10.5281/zenodo.23409493},
+  url    = {https://github.com/fahrim/stationary-strings-vi}
+}
+```
+
+See also `CITATION.cff`.
 
 ## License
 

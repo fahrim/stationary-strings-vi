@@ -1,5 +1,11 @@
 # Duran Sicimler Teoremi VI — Yayın Paketi
 
+> **English:** [README.md](./README.md)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23409493.svg)](https://doi.org/10.5281/zenodo.23409493)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 **Stationary Strings Theorem VI: Dirac–Majorana Chiral Peeling in Navier–Stokes Vortex Blowup, the Λ_Meral Baryogenesis Constant, and CERN ALPHA / 511 keV Observational Synthesis**
 
 Yazar: Fahri Meral · Tarih: 16 Ekim 2026 · Sürüm: v1 (Makale VI)
@@ -43,6 +49,20 @@ python duran_sicimler_sim/solver_engine.py   # T1–T15 (15/15 PASS)
   `ε_CP* = 3.04422478604457e-11`.
 - T15: ALPHA-g lab `1.0` tam (`1.21σ` marjinal uyum), Breit–Rabi farkı `~1e-9` kHz,
   Gauss norm `5.6e-16`, Ore–Powell `∫_0` ıraksaklığı belgeli (düzenli: `2343.47/228.08`).
+
+## Alıntı
+
+```bibtex
+@misc{meral2026duranVI,
+  author = {Fahri Meral},
+  title  = {Duran Sicimler Teoremi VI: Navier-Stokes Girdap Çöküşünde Dirac-Majorana Kiral Soyulma, Meral Bariojenez Sabiti ve CERN ALPHA / 511 keV Gözlemsel Sentezi},
+  year   = {2026},
+  doi    = {10.5281/zenodo.23409493},
+  url    = {https://github.com/fahrim/stationary-strings-vi}
+}
+```
+
+`CITATION.cff` dosyasına da bakınız.
 
 ## Lisans
 
