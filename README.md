@@ -17,9 +17,18 @@ Yazar: Fahri Meral · Tarih: 16 Ekim 2026 · Sürüm: v1 (Makale VI)
 
 ## Sayısal yeniden-üretim
 
-Hesaplamalar `duran_sicimler_sim/` paketinde (`solver_engine.py` Test T13–T15,
-`generate_figures.py` fig7–fig8) kayıtlıdır: `T1–T15 (15/15 PASS)`.
-Ayrıntılı tablolar: `SONUC_RAPORU_VII.md` (Tablo 11–13).
+T13–T15 sayısal doğrulama, **V deposundaki** çözücüyle üretilir
+([`stationary-strings-v`](https://github.com/fahrim/stationary-strings-v), etiket `v3`, commit `b3443e7`):
+
+```bash
+git clone https://github.com/fahrim/stationary-strings-v
+cd stationary-strings-v && git checkout v3
+pip install numpy scipy matplotlib
+python duran_sicimler_sim/solver_engine.py   # T1–T15 (15/15 PASS)
+```
+
+`figs/` dizinindeki fig7–fig8 PDF'leri bu testlerin arşivlenmiş figürleridir
+(İngilizce etiketli sürümler hazırlanmaktadır).
 
 ## Ana bulgular
 
