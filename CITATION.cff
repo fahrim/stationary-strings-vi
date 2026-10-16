@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Duran Sicimler Teoremi VI: Navier-Stokes Girdap Tekilliginde Dirac-Majorana Kiral Soyulmasi, Meral Baryojenez Sabiti ve CERN ALPHA / 511 keV Gozlemsel Sentezi"
+message: "Bu çalışmayı kullanıyorsanız lütfen atıf yapınız."
+type: unpublished
+authors:
+  - family-names: Meral
+    given-names: Fahri
+date-released: 2026-10-16
+version: v1
+license: MIT
+keywords:
+  - Navier-Stokes
+  - Dirac-Majorana
+  - leptogenesis
+  - antimatter
+  - ALPHA
+  - positron annihilation
