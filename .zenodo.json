@@ -1,0 +1,19 @@
+{
+  "title": "Stationary Strings Theorem VI: Dirac-Majorana Chiral Peeling in Navier-Stokes Vortex Blowup, the Meral Baryogenesis Constant, and CERN ALPHA / 511 keV Observational Synthesis",
+  "description": "Sixth link of the series (October 2026): Dirac-Majorana chiral peeling in vortex shear (Test T13), the Meral baryogenesis constant with closed analytic form (Test T14), CERN ALPHA-g / ALPHA 2026 Breit-Rabi / 511 keV verification (Test T15). Full paper in Turkish and English. Tests T13-T15 run with the solver in the Paper V repository (stationary-strings-v, tag v3).",
+  "creators": [
+    {
+      "name": "Meral, Fahri"
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  },
+  "keywords": [
+    "Dirac-Majorana",
+    "baryogenesis",
+    "antimatter",
+    "ALPHA",
+    "positron annihilation"
+  ]
+}
